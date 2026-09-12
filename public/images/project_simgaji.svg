@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" width="1200" height="675" fill="none">
+  <rect width="1200" height="675" fill="#f4f4f5"/>
+  <!-- App Frame -->
+  <rect x="60" y="45" width="1080" height="585" rx="8" fill="#ffffff" stroke="#d4d4d8" stroke-width="2"/>
+  <!-- Top Bar -->
+  <rect x="60" y="45" width="1080" height="50" fill="#f9f9f9"/>
+  <line x1="60" y1="95" x2="1140" y2="95" stroke="#e4e4e7" stroke-width="2"/>
+  <circle cx="95" cy="70" r="6" fill="#18181b"/>
+  <circle cx="120" cy="70" r="6" fill="#71717a"/>
+  <circle cx="145" cy="70" r="6" fill="#a1a1aa"/>
+  <text x="180" y="75" font-family="JetBrains Mono, monospace" font-size="14" font-weight="bold" fill="#09090b">SIMGAJI ITK — Payroll &amp; HR Management Dashboard</text>
+  
+  <!-- Sidebar -->
+  <rect x="60" y="95" width="220" height="535" fill="#fafafa"/>
+  <line x1="280" y1="95" x2="280" y2="630" stroke="#e4e4e7" stroke-width="2"/>
+  <rect x="80" y="125" width="180" height="32" rx="4" fill="#09090b"/>
+  <text x="100" y="146" font-family="Plus Jakarta Sans, sans-serif" font-size="13" font-weight="bold" fill="#ffffff">Salary Processing</text>
+  <text x="100" y="196" font-family="Plus Jakarta Sans, sans-serif" font-size="13" font-weight="600" fill="#52525b">Employee Data</text>
+  <text x="100" y="236" font-family="Plus Jakarta Sans, sans-serif" font-size="13" font-weight="600" fill="#52525b">PPh21 Tax Slabs</text>
+  <text x="100" y="276" font-family="Plus Jakarta Sans, sans-serif" font-size="13" font-weight="600" fill="#52525b">BPJS Deductions</text>
+  <text x="100" y="316" font-family="Plus Jakarta Sans, sans-serif" font-size="13" font-weight="600" fill="#52525b">Payslip Export</text>
+
+  <!-- Main Table View -->
+  <text x="310" y="140" font-family="Plus Jakarta Sans, sans-serif" font-size="20" font-weight="800" fill="#09090b">Monthly Payroll Calculations (SIMGAJI)</text>
+  
+  <!-- Stat Cards -->
+  <rect x="310" y="165" width="240" height="70" rx="4" fill="#f4f4f5" stroke="#e4e4e7"/>
+  <text x="325" y="190" font-family="JetBrains Mono, monospace" font-size="11" fill="#71717a">TOTAL DISBURSED</text>
+  <text x="325" y="218" font-family="Plus Jakarta Sans, sans-serif" font-size="18" font-weight="800" fill="#09090b">Rp 485.250.000</text>
+
+  <rect x="570" y="165" width="240" height="70" rx="4" fill="#f4f4f5" stroke="#e4e4e7"/>
+  <text x="585" y="190" font-family="JetBrains Mono, monospace" font-size="11" fill="#71717a">ACTIVE STAFF</text>
+  <text x="585" y="218" font-family="Plus Jakarta Sans, sans-serif" font-size="18" font-weight="800" fill="#09090b">142 Employees</text>
+
+  <rect x="830" y="165" width="280" height="70" rx="4" fill="#f4f4f5" stroke="#e4e4e7"/>
+  <text x="845" y="190" font-family="JetBrains Mono, monospace" font-size="11" fill="#71717a">TAX WITHHOLDINGS</text>
+  <text x="845" y="218" font-family="Plus Jakarta Sans, sans-serif" font-size="18" font-weight="800" fill="#09090b">PPh21 &amp; BPJS Verified</text>
+
+  <!-- Payroll Table Header -->
+  <rect x="310" y="260" width="800" height="40" fill="#18181b"/>
+  <text x="330" y="285" font-family="JetBrains Mono, monospace" font-size="12" font-weight="bold" fill="#ffffff">STAFF NIP</text>
+  <text x="460" y="285" font-family="JetBrains Mono, monospace" font-size="12" font-weight="bold" fill="#ffffff">NAME &amp; DEPT</text>
+  <text x="680" y="285" font-family="JetBrains Mono, monospace" font-size="12" font-weight="bold" fill="#ffffff">BASE SALARY</text>
+  <text x="850" y="285" font-family="JetBrains Mono, monospace" font-size="12" font-weight="bold" fill="#ffffff">DEDUCTIONS</text>
+  <text x="1000" y="285" font-family="JetBrains Mono, monospace" font-size="12" font-weight="bold" fill="#ffffff">NET PAY</text>
+
+  <!-- Table Rows -->
+  <rect x="310" y="300" width="800" height="50" fill="#ffffff"/>
+  <line x1="310" y1="350" x2="1110" y2="350" stroke="#e4e4e7"/>
+  <text x="330" y="330" font-family="JetBrains Mono, monospace" font-size="12" fill="#52525b">1988041201</text>
+  <text x="460" y="330" font-family="Plus Jakarta Sans, sans-serif" font-size="13" font-weight="bold" fill="#09090b">Dr. Eng. Ahmad R. (Informatika)</text>
+  <text x="680" y="330" font-family="JetBrains Mono, monospace" font-size="12" fill="#09090b">Rp 12.500.000</text>
+  <text x="850" y="330" font-family="JetBrains Mono, monospace" font-size="12" fill="#71717a">- Rp 850.000</text>
+  <text x="1000" y="330" font-family="JetBrains Mono, monospace" font-size="13" font-weight="bold" fill="#09090b">Rp 11.650.000</text>
+
+  <rect x="310" y="350" width="800" height="50" fill="#fafafa"/>
+  <line x1="310" y1="400" x2="1110" y2="400" stroke="#e4e4e7"/>
+  <text x="330" y="380" font-family="JetBrains Mono, monospace" font-size="12" fill="#52525b">1991082302</text>
+  <text x="460" y="380" font-family="Plus Jakarta Sans, sans-serif" font-size="13" font-weight="bold" fill="#09090b">Siti Rahmawati, M.T. (Sistem)</text>
+  <text x="680" y="380" font-family="JetBrains Mono, monospace" font-size="12" fill="#09090b">Rp 10.200.000</text>
+  <text x="850" y="380" font-family="JetBrains Mono, monospace" font-size="12" fill="#71717a">- Rp 620.000</text>
+  <text x="1000" y="380" font-family="JetBrains Mono, monospace" font-size="13" font-weight="bold" fill="#09090b">Rp 9.580.000</text>
+
+  <rect x="310" y="400" width="800" height="50" fill="#ffffff"/>
+  <line x1="310" y1="450" x2="1110" y2="450" stroke="#e4e4e7"/>
+  <text x="330" y="430" font-family="JetBrains Mono, monospace" font-size="12" fill="#52525b">1995031503</text>
+  <text x="460" y="430" font-family="Plus Jakarta Sans, sans-serif" font-size="13" font-weight="bold" fill="#09090b">Budi Santoso, S.Kom. (Laboratorium)</text>
+  <text x="680" y="430" font-family="JetBrains Mono, monospace" font-size="12" fill="#09090b">Rp 7.800.000</text>
+  <text x="850" y="430" font-family="JetBrains Mono, monospace" font-size="12" fill="#71717a">- Rp 410.000</text>
+  <text x="1000" y="430" font-family="JetBrains Mono, monospace" font-size="13" font-weight="bold" fill="#09090b">Rp 7.390.000</text>
+
+  <rect x="310" y="470" width="160" height="40" rx="4" fill="#09090b"/>
+  <text x="345" y="495" font-family="JetBrains Mono, monospace" font-size="12" font-weight="bold" fill="#ffffff">EXPORT PAYSLIPS</text>
+</svg>
